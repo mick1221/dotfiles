@@ -119,6 +119,6 @@ bindkey -e
 # End of lines configured by zsh-newuser-install
 
 #alias's
-alias dotfiles='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
+alias dots='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
 alias vi='nvim'
 alias vim='nvim'
