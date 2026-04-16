@@ -23,7 +23,7 @@
 		"default": "" 
 	},
        "persistent-workspaces": {
-         "*": [ 2, 3, 4, 5, 6 ]
+         "*": [1, 2, 3, 4, 5, 6 ]
        }
 },
 
@@ -55,7 +55,7 @@
       "interval":1,
       "tooltip-format": "\n<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
       "calendar-weeks-pos": "right",
-      "today-format": "<span color='#7645AD'><b><u>{}</u></b></span>",
+      "today-format": "<span color='#ffcfe8'><b><u>{}</u></b></span>",
       "format-calendar": "<span color='#aeaeae'><b>{}</b></span>",
       "format-calendar-weeks": "<span color='#aeaeae'><b>W{:%V}</b></span>",
       "format-calendar-weekdays": "<span color='#aeaeae'><b>{}</b></span>"
