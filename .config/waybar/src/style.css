@@ -8,7 +8,6 @@
 window#waybar {
   background: transparent;
   margin: 5px;
-  color: #f5aba6
  }
 
 #custom-logo {
@@ -60,19 +59,17 @@ window#waybar {
   padding-top: 3px;
 }
 
-#workspaces button{
-  color: #f5aba6;
-}
-
-#workspaces button.active{
-  color: #000000;
-  background-color:#f5aba6;
-}
-
 #temperature.critical,
 #pulseaudio.muted {
   color: #FF0000;
   padding-top: 0;
+}
+
+
+
+
+#clock{
+  color: #5fd1fa;
 }
 
 #battery.charging {
